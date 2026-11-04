@@ -32,6 +32,8 @@
   "CLOCK_PORT": "clk",
 
   "SYNTH_LATCH_MAP": "dir::latch_map.v",
+  "SYNTH_ABC_BUFFERING": 1,
+  "MAX_FANOUT_CONSTRAINT": 8,
 
   "//": "Configuration docs: https://librelane.readthedocs.io/en/latest/reference/configuration.html",
 
